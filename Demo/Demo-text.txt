@@ -1,2 +1,4 @@
 Demo file
 created by demo-github-user1
+
+Changes made while other user is working parallel - demo-github-user1
